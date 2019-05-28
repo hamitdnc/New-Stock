@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\584d6e39b3fc1fc6979828057ea5602e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\633b5bd83bfe4d2389815d1719de7818\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c1bec97258977d4ffea280fba6eeced1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3d3ee1455c00bdf648f9fd8be2274503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\d878c15f86ec154b55d690726dac6641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a82765e55fcda027a1c1322f3e18a28b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\fb373946a52f535e6651085fcc7a50f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c630efbb9276eead1266db15f4c0ef2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5cf02fa236c6094fadf0999377fa7216\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3836a0925d98fbc99f3aac537c67e16c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\b17178f5a5973cd1cbe21467acf9e745\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3947cbd5efd9036bb0af42c4053f229d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5e0a1a168fd0ff38c6854a9eb5e64ffa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\04cbb825b4368f7134f29acff46cd52c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\bf0920842f2cadb1c41a95ffdf4e067f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a6bf5403bb3c68eacdf14d5a4783c94b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\935bfa6d2bf93132e17510e1685aeafb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c669de8b4bc17ef1c28728577b4533b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\809e65c1af1a226ef87491d6e7b0704d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ad4128460a677a7b22b5f795824b2980\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c9b3110652b26f1afe5c19bbb7113e44\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\345519ce2777c8c80df4de598e6fbf4a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ff8d29aa7cfa3092c0cebfc3424ba512\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3f7bd4bffad2c7dafbe8f4f7456de315\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\8ae3ebb80dce1d1391b411204ea421a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c4b6583f64add7905a7ca9bdc74f7746\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\633b5bd83bfe4d2389815d1719de7818\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\633b5bd83bfe4d2389815d1719de7818\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a6bf5403bb3c68eacdf14d5a4783c94b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a6bf5403bb3c68eacdf14d5a4783c94b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.newstock.MainActivity
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\584d6e39b3fc1fc6979828057ea5602e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\584d6e39b3fc1fc6979828057ea5602e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\633b5bd83bfe4d2389815d1719de7818\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\633b5bd83bfe4d2389815d1719de7818\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c1bec97258977d4ffea280fba6eeced1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c1bec97258977d4ffea280fba6eeced1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3d3ee1455c00bdf648f9fd8be2274503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3d3ee1455c00bdf648f9fd8be2274503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\d878c15f86ec154b55d690726dac6641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\d878c15f86ec154b55d690726dac6641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a82765e55fcda027a1c1322f3e18a28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a82765e55fcda027a1c1322f3e18a28b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\fb373946a52f535e6651085fcc7a50f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\fb373946a52f535e6651085fcc7a50f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c630efbb9276eead1266db15f4c0ef2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c630efbb9276eead1266db15f4c0ef2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5cf02fa236c6094fadf0999377fa7216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5cf02fa236c6094fadf0999377fa7216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3836a0925d98fbc99f3aac537c67e16c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3836a0925d98fbc99f3aac537c67e16c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\b17178f5a5973cd1cbe21467acf9e745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\b17178f5a5973cd1cbe21467acf9e745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3947cbd5efd9036bb0af42c4053f229d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3947cbd5efd9036bb0af42c4053f229d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5e0a1a168fd0ff38c6854a9eb5e64ffa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\5e0a1a168fd0ff38c6854a9eb5e64ffa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\04cbb825b4368f7134f29acff46cd52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\04cbb825b4368f7134f29acff46cd52c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\bf0920842f2cadb1c41a95ffdf4e067f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\bf0920842f2cadb1c41a95ffdf4e067f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\6caf1e3b0052bd5953a84e5e46022066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a6bf5403bb3c68eacdf14d5a4783c94b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\a6bf5403bb3c68eacdf14d5a4783c94b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\935bfa6d2bf93132e17510e1685aeafb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\935bfa6d2bf93132e17510e1685aeafb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c669de8b4bc17ef1c28728577b4533b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c669de8b4bc17ef1c28728577b4533b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\809e65c1af1a226ef87491d6e7b0704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\809e65c1af1a226ef87491d6e7b0704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ad4128460a677a7b22b5f795824b2980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ad4128460a677a7b22b5f795824b2980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c9b3110652b26f1afe5c19bbb7113e44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c9b3110652b26f1afe5c19bbb7113e44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\345519ce2777c8c80df4de598e6fbf4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\345519ce2777c8c80df4de598e6fbf4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ff8d29aa7cfa3092c0cebfc3424ba512\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\ff8d29aa7cfa3092c0cebfc3424ba512\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3f7bd4bffad2c7dafbe8f4f7456de315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\3f7bd4bffad2c7dafbe8f4f7456de315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\8ae3ebb80dce1d1391b411204ea421a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\8ae3ebb80dce1d1391b411204ea421a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c4b6583f64add7905a7ca9bdc74f7746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hamit\.gradle\caches\transforms-2\files-2.1\c4b6583f64add7905a7ca9bdc74f7746\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hamit\AndroidStudioProjects\NewStock2\app\src\main\AndroidManifest.xml
