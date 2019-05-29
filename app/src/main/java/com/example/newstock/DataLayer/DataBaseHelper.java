@@ -10,8 +10,6 @@ import com.example.newstock.Entites.Products;
 import com.example.newstock.Entites.QuantityTypes;
 import com.example.newstock.Entites.Suppliers;
 
-import java.util.function.Supplier;
-
 public class DataBaseHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "stockdb";
@@ -34,47 +32,47 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 //endregion
     //region CREATE_ADRESSES_TABLE
     public static final String CREATE_ADRESSES_TABLE = "CREATE TABLE "
-            + ADRESSES_TABLE + "(" + adresses.getID() + " INTEGER PRIMARY KEY, "
-            + adresses.getCountry() + " TEXT, " + adresses.getState() + " TEXT, "
-            + adresses.getCity() + " TEXT, " + adresses.getDistinct() + " TEXT, "
-            + adresses.getStreet() + " TEXT, " + adresses.getNeighbor() + " TEXT, "
-            + adresses.getBuildingName() + " TEXT, " + adresses.getBuildingNo() + " INT, "
-            + "FOREIGN KEY(" + adresses.getSupplierID() + ") REFERENCES "
+            + ADRESSES_TABLE + "(" + adresses.getColumnId() + " INTEGER PRIMARY KEY, "
+            + adresses.getColumnCountry() + " TEXT, " + adresses.getColumnState() + " TEXT, "
+            + adresses.getColumnCity() + " TEXT, " + adresses.getColumnDistinct() + " TEXT, "
+            + adresses.getColumnStreet() + " TEXT, " + adresses.getColumnNeighbor() + " TEXT, "
+            + adresses.getColumnBuildingname() + " TEXT, " + adresses.getColumnBuildingno() + " INT, "
+            + "FOREIGN KEY(" + adresses.getColumnSupplierid() + ") REFERENCES "
             + SUPPLIERS_TABLE + "(id) " + ")";
 //endregion
     //region CREATE_PHONES_TABLE
     public static final String CREATE_PHONES_TABLE = "CREATE TABLE "
-            + PHONES_TABLE + "(" + phones.getID() + " INTEGER PRIMARY KEY,"
-            + phones.getNumber() + " TEXT, " +")"
-            + "FOREIGN KEY(" + phones.getSuppliersId() + ") REFERENCES "
+            + PHONES_TABLE + "(" + phones.getColumnId() + " INTEGER PRIMARY KEY,"
+            + phones.getColumnNumber() + " TEXT, " +")"
+            + "FOREIGN KEY(" + phones.getColumnSuppliersid() + ") REFERENCES "
                      + SUPPLIERS_TABLE + "(id) " + ")";
 //endregion
     //region CREATE_PRODUCTS_TABLE
     public static final String CREATE_PRODUCTS_TABLE = "CREATE TABLE "
-            + PRODUCTS_TABLE + "(" + products.getID() + " INTEGER PRIMARY KEY, "
-            + products.getName() + " TEXT, " + products.getBarcodeNumber() + " TEXT, "
-            + products.getArrivedDate() + " INTEGER, " + products.getCreatedDate() + " TEXT, "
-            + products.getUpdatedDate() + " INTEGER, " + products.getImage() + " INTEGER, "
-            + products.getPrice() + " REAL, " + products.getAmount() + " REAL, "
-            + "FOREIGN KEY(" + products.getCategoryId() + ") REFERENCES "
+            + PRODUCTS_TABLE + "(" + products.getColumnId() + " INTEGER PRIMARY KEY, "
+        + products.getColumnName() + " TEXT, " + products.getColumnBarcodenumber() + " TEXT, "
+            + products.getColumnArriveddate() + " INTEGER, " + products.getColumnCreateddate() + " TEXT, "
+            + products.getColumnUpdateddate() + " INTEGER, " + products.getColumnImage()+ " INTEGER, "
+            + products.getColumnPrice() + " REAL, " + products.getColumnAmount() + " REAL, "
+            + "FOREIGN KEY(" + products.getColumnCategoryid() + ") REFERENCES "
             + CATEGORIES_TABLE + "(id) " + ")"
-            + "FOREIGN KEY(" + products.getQuantityId() + ") REFERENCES "
+            + "FOREIGN KEY(" + products.getColumnQuantityid() + ") REFERENCES "
             + QUANTITYTYPES_TABLE + "(id) " + ")";
 //endregion
     //region CREATE_SUPPLIERS_TABLE
     public static final String CREATE_SUPPLIERS_TABLE = "CREATE TABLE "
-            + SUPPLIERS_TABLE + "(" + suppliers.getID() + " INTEGER PRIMARY KEY,"
-            + suppliers.getName() + " TEXT, " +")";
+            + SUPPLIERS_TABLE + "(" + suppliers.getColumnId() + " INTEGER PRIMARY KEY,"
+            + suppliers.getColumnName() + " TEXT, " +")";
 //endregion
     //region CREATE_CATEGORIES_TABLE
     public static final String CREATE_CATEGORIES_TABLE = "CREATE TABLE "
-            + CATEGORIES_TABLE + "(" + categories.getID() + " INTEGER PRIMARY KEY,"
-            + categories.getName() + " TEXT, " +")";
+            + CATEGORIES_TABLE + "(" + categories.getColumnId() + " INTEGER PRIMARY KEY,"
+            + categories.getColumnName() + " TEXT, " +")";
 //endregion
     //region CREATE_QUANTITYTYPES_TABLE
     public static final String CREATE_QUANTITYTYPES_TABLE = "CREATE TABLE "
-            + QUANTITYTYPES_TABLE + "(" + quantityTypes.getID() + " INTEGER PRIMARY KEY,"
-            + quantityTypes.getName() + " TEXT, " +")";
+            + QUANTITYTYPES_TABLE + "(" + quantityTypes.getColumnId() + " INTEGER PRIMARY KEY,"
+            + quantityTypes.getColumnName() + " TEXT, " +")";
 //endregion
     private static DataBaseHelper instance;
 

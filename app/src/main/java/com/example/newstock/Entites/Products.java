@@ -5,59 +5,59 @@ import android.media.Image;
 import java.util.Date;
 
 public class Products {
-    private static final String ID="id";
-    private static final String name="name";
-    private static final String barcodeNumber="barcodeNumber";
-    private static final String arrivedDate="arrivedDate";
-    private static final String createdDate="createdDate";
-    private static final String updatedDate="updatedDate";
-    private static final String image="image";
-    private static final String price="price";
-    private static final String amount="amount";
-    private static final String categoryId="categoryId";
-    private static final String quantityId="quantityId";
+    private static final String COLUMN_ID="id";
+    private static final String COLUMN_NAME="name";
+    private static final String COLUMN_BARCODENUMBER="barcodeNumber";
+    private static final String COLUMN_ARRIVEDDATE="arrivedDate";
+    private static final String COLUMN_CREATEDDATE="createdDate";
+    private static final String COLUMN_UPDATEDDATE="updatedDate";
+    private static final String COLUMN_IMAGE="image";
+    private static final String COLUMN_PRICE="price";
+    private static final String COLUMN_AMOUNT="amount";
+    private static final String COLUMN_CATEGORYID="categoryId";
+    private static final String COLUMN_QUANTITYID="quantityId";
 
-    public static String getID() {
-        return ID;
+    public static String getColumnId() {
+        return COLUMN_ID;
     }
 
-    public static String getName() {
-        return name;
+    public static String getColumnName() {
+        return COLUMN_NAME;
     }
 
-    public static String getBarcodeNumber() {
-        return barcodeNumber;
+    public static String getColumnBarcodenumber() {
+        return COLUMN_BARCODENUMBER;
     }
 
-    public static String getArrivedDate() {
-        return arrivedDate;
+    public static String getColumnArriveddate() {
+        return COLUMN_ARRIVEDDATE;
     }
 
-    public static String getCreatedDate() {
-        return createdDate;
+    public static String getColumnCreateddate() {
+        return COLUMN_CREATEDDATE;
     }
 
-    public static String getUpdatedDate() {
-        return updatedDate;
+    public static String getColumnUpdateddate() {
+        return COLUMN_UPDATEDDATE;
     }
 
-    public static String getImage() {
-        return image;
+    public static String getColumnImage() {
+        return COLUMN_IMAGE;
     }
 
-    public static String getPrice() {
-        return price;
+    public static String getColumnPrice() {
+        return COLUMN_PRICE;
     }
 
-    public static String getAmount() {
-        return amount;
+    public static String getColumnAmount() {
+        return COLUMN_AMOUNT;
     }
 
-    public static String getCategoryId() {
-        return categoryId;
+    public static String getColumnCategoryid() {
+        return COLUMN_CATEGORYID;
     }
 
-    public static String getQuantityId() {
-        return quantityId;
+    public static String getColumnQuantityid() {
+        return COLUMN_QUANTITYID;
     }
 }

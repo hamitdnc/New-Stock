@@ -1,60 +1,60 @@
 package com.example.newstock.Entites;
 
 public class Addresses {
-    private static final String ID="id";
-    private static final String country="country";
-    private static final String state="state";
-    private static final String city="city";
-    private static final String distinct="distinct";
-    private static final String street="street";
-    private static final String neighbor="neighbor";
-    private static final String buildingName="buildingName";
-    private static final String buildingNo="buildingNo";
-    private static final String postCode="postCode";
-    private static final String supplierID="supplierID";
+    private static final String COLUMN_ID="id";
+    private static final String COLUMN_COUNTRY="country";
+    private static final String COLUMN_STATE="state";
+    private static final String COLUMN_CITY="city";
+    private static final String COLUMN_DISTINCT="distinct";
+    private static final String COLUMN_STREET="street";
+    private static final String COLUMN_NEIGHBOR="neighbor";
+    private static final String COLUMN_BUILDINGNAME="buildingName";
+    private static final String COLUMN_BUILDINGNO="buildingNo";
+    private static final String COLUMN_POSTCODE="postCode";
+    private static final String COLUMN_SUPPLIERID="supplierID";
 
-    public static String getSupplierID() {
-        return supplierID;
+    public static String getColumnId() {
+        return COLUMN_ID;
     }
 
-    public static String getID() {
-        return ID;
+    public static String getColumnCountry() {
+        return COLUMN_COUNTRY;
     }
 
-    public static String getCountry() {
-        return country;
+    public static String getColumnState() {
+        return COLUMN_STATE;
     }
 
-    public static String getState() {
-        return state;
+    public static String getColumnCity() {
+        return COLUMN_CITY;
     }
 
-    public static String getCity() {
-        return city;
+    public static String getColumnDistinct() {
+        return COLUMN_DISTINCT;
     }
 
-    public static String getDistinct() {
-        return distinct;
+    public static String getColumnStreet() {
+        return COLUMN_STREET;
     }
 
-    public static String getStreet() {
-        return street;
+    public static String getColumnNeighbor() {
+        return COLUMN_NEIGHBOR;
     }
 
-    public static String getNeighbor() {
-        return neighbor;
+    public static String getColumnBuildingname() {
+        return COLUMN_BUILDINGNAME;
     }
 
-    public static String getBuildingName() {
-        return buildingName;
+    public static String getColumnBuildingno() {
+        return COLUMN_BUILDINGNO;
     }
 
-    public static String getBuildingNo() {
-        return buildingNo;
+    public static String getColumnPostcode() {
+        return COLUMN_POSTCODE;
     }
 
-    public static String getPostCode() {
-        return postCode;
+    public static String getColumnSupplierid() {
+        return COLUMN_SUPPLIERID;
     }
 }
 

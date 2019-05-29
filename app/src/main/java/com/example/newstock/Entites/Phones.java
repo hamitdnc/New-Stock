@@ -1,20 +1,20 @@
 package com.example.newstock.Entites;
 
 public class Phones {
-    private static final String ID="id";
-    private static final String number="number";
-    private static final String suppliersId="suppliersId";
+    private static final String COLUMN_ID="id";
+    private static final String COLUMN_NUMBER="number";
+    private static final String COLUMN_SUPPLIERSID="suppliersId";
 
-    public static String getID() {
-        return ID;
+    public static String getColumnId() {
+        return COLUMN_ID;
     }
 
-    public static String getNumber() {
-        return number;
+    public static String getColumnNumber() {
+        return COLUMN_NUMBER;
     }
 
-    public static String getSuppliersId() {
-        return suppliersId;
+    public static String getColumnSuppliersid() {
+        return COLUMN_SUPPLIERSID;
     }
 }
 
